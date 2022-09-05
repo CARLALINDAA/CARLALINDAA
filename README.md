@@ -1,8 +1,5 @@
-Carla maria
-15y
-não usarei meu perfil com frequência
+olá , eu sou a Carla maria
+meu endereço de e-mail é carla.seduk@escola.pr.gov.br
+estou estudando javascript e scratch 
+estou aprendendo novas linguagens 
 
-<!---
-CARLALINDAA/CARLALINDAA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
